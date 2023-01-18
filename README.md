@@ -11,7 +11,7 @@ I worked for a long time as a shop assistant and I saw how quickly new technolog
 
 ## Documentation from internship (in Polish):
 
-- [Exploratory testing reports]() (Pomodoro Kanban App)
+- [Exploratory testing reports](https://drive.google.com/file/d/1A40AIjZkBfdgW-2TYGThK9lU2fvFytbE/view?usp=sharing) (Pomodoro Kanban App)
 - [Test plan](https://drive.google.com/file/d/1e-AbD8jPzixxP9r6WcA4yTtFh_5OEjGJ/view?usp=sharing) (e-commerce shop)
-- Test cases - report from TestLink (kanbanboard.pl)
-- Postman collection (Trello API)
+- [Test cases - report from TestLink](https://drive.google.com/file/d/1m0ZSfyPzbQhwd3sFWU-ZX0h6nR869ovC/view?usp=sharing) (kanbanboard.pl)
+- [Postman collection](https://www.getpostman.com/collections/c2a894ac880ba9b20ec3) (Trello API)
