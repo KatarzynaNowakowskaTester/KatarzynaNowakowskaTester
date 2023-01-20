@@ -43,3 +43,4 @@ I worked for a long time as a shop assistant and I saw how quickly new technolog
 - [podcast ITea Morning](https://www.youtube.com/c/ITeaMorning/videos)
 - newsletter QA Weekly
 - newsletter Testowa Środa
+- [Ministry of Testing](https://www.ministryoftesting.com)
