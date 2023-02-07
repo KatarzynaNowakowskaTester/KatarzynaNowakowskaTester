@@ -9,7 +9,7 @@ So far I find exploratory testing the most exciting of all types of tests. Maybe
 - 👀 I'm interested in software testing and Quality Assurance.
 - 🔭 I’m currently looking for my first job as a Junior Software Tester.
 - 🌱 I’m currently learning HTML, CSS and SQL.
-- 📫 How to reach me: <nowakowskatester@gmail.com> [LinkedIn](www.linkedin.com/in/katarzyna-nowakowska-tester)
+- 📫 How to reach me: <nowakowskatester@gmail.com> / [LinkedIn](www.linkedin.com/in/katarzyna-nowakowska-tester)
 
 ## Documentation from internship (in Polish):
 
@@ -17,6 +17,11 @@ So far I find exploratory testing the most exciting of all types of tests. Maybe
 - [Test plan](https://drive.google.com/file/d/1e-AbD8jPzixxP9r6WcA4yTtFh_5OEjGJ/view?usp=sharing) (e-commerce shop)
 - [Test cases - report from TestLink](https://drive.google.com/file/d/1m0ZSfyPzbQhwd3sFWU-ZX0h6nR869ovC/view?usp=sharing) (kanbanboard.pl)
 - [Postman collection](https://www.getpostman.com/collections/c2a894ac880ba9b20ec3) (Trello API)
+
+## Examples of testing documentation (in English):
+
+- [Test cases](https://docs.google.com/document/d/1Xoc-fJN9dAnUPkeIqER-VEjc6QXvchfR7nRmT5NYs2w/edit?usp=sharing) (Wizzair login form)
+- [Bug reports](https://docs.google.com/spreadsheets/d/1ucorhhPfRCYF9oB9YijbKwxO6y_Jn9aiHmaoKyKWEKU/edit?usp=sharing) (Wizzair.com)
 
 ## Courses:
 - ["Testing Academy"](https://drive.google.com/file/d/1glzzFNjaLdp6vjoIpe71zp43yBGh78FB/view?usp=sharing) (testuj.pl)
