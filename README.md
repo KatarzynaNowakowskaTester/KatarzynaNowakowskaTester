@@ -50,4 +50,3 @@ So far I find exploratory testing the most exciting of all types of tests. Maybe
 - [podcast ITea Morning](https://www.youtube.com/c/ITeaMorning/videos)
 - newsletter QA Weekly
 - newsletter Testowa Środa
-- [Ministry of Testing](https://www.ministryoftesting.com)
