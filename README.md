@@ -8,7 +8,7 @@ So far I find exploratory testing the most exciting of all types of tests. Maybe
 
 - 👀 I'm interested in software testing and Quality Assurance.
 - 🔭 I’m currently looking for my first job as a Junior Software Tester.
-- 🌱 I have a ISTQB Tester Foundation Level Certificate
+- 🌱 I have a ISTQB Tester Foundation Level Certificate.
 - 📫 How to reach me: <nowakowskatester@gmail.com> / [LinkedIn](www.linkedin.com/in/katarzyna-nowakowska-tester)
 
 ## Certification:
@@ -25,7 +25,7 @@ So far I find exploratory testing the most exciting of all types of tests. Maybe
 ## Examples of testing documentation (in English):
 
 - [Test cases](https://docs.google.com/document/d/1Xoc-fJN9dAnUPkeIqER-VEjc6QXvchfR7nRmT5NYs2w/edit?usp=sharing) (Wizzair login form)
-- [Bug reports](https://docs.google.com/spreadsheets/d/1ucorhhPfRCYF9oB9YijbKwxO6y_Jn9aiHmaoKyKWEKU/edit?usp=sharing) (Wizzair.com)
+- [Bug reports](https://docs.google.com/spreadsheets/d/1Qpkfws6r2foDl0XKadYq_OlTYMH290D2GDqWRWKY-XA/edit?usp=sharing) (Wizzair.com)
 
 ## Documentation from internship (in Polish):
 
