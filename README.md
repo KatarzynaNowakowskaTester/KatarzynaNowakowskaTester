@@ -1,8 +1,8 @@
 ## About me:
 
-I worked for a long time as a shop assistant and I saw how quickly new technology shows up in our daily life. Now I want to develop my skills according to these changes and become a part of the modern industrial revolution. I am interested in the whole quality assurance processes and I hope to become QA Manager in the further future, but for now I want to improve my skills as a Software Tester, because I like exploring new applications, finding new useful tools, looking deeply into new features, and tracking different bugs and errors.
+I worked for a long time as a Shop Assistant and I saw how quickly new technology shows up in our daily life. Now I want to develop my skills according to these changes and become a part of the modern industrial revolution. I am interested in the whole quality assurance processes and I hope to become QA Manager in the further future, but for now I want to improve my skills as a Software Tester, because I like exploring new applications, finding new useful tools, looking deeply into new features, and tracking different bugs and errors.
 
-So far I find exploratory testing the most exciting of all types of tests. Maybe because it's like a small detective investigation - you learn how the application works during using it and precisely seek anything that looks suspicious. Also test planning is very interesting for me - because every single application needs a different approach and it's important to select wisely from multiple possibilities - it's like a giant puzzle.
+So far I find exploratory testing the most exciting of all types of tests. Maybe because it's like a small detective investigation - you learn how the application works while using it and precisely seek anything that looks suspicious. Also test planning is very interesting for me - because every single application needs a different approach and it's important to select wisely from multiple possibilities - it's like a giant puzzle.
 
 ## Me in few words:
 
